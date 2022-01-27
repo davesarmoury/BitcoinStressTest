@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 import time
 
 led_pin_1 = 12
-led_pin_2 = 13
+led_pin_2 = 16
 button_pin = 18
 
 def blink(channel):
